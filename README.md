@@ -4,4 +4,4 @@ I created an automation for League of Legends that interfaces with the LCU Drive
 
 ![lol-accept-queue](https://github.com/user-attachments/assets/5fce1377-ad39-4f94-b42f-11b34a59dc5c)
 
-
+If you're not interested in the code and just want to use the program, download the exe by clicking on the release.
